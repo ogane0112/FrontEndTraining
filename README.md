@@ -16,4 +16,5 @@ HTML/CSS/JavaScrptの学習成果物はフォルダー名HTML-CSS-JavaScriptに�
 ### Nuxt.js成果物
 ### React成果物
 ### Next.js成果物
+Next.js成果物はフォルダー名Next.jsに格納されています
 ### 
