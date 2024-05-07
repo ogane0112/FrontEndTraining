@@ -13,8 +13,9 @@ HTML/CSS/JavaScrptの学習成果物はフォルダー名HTML-CSS-JavaScriptに�
 
 ## JacaScript各フレームワークについて
 ### Vue.js成果物
+### vue.js 2.x 成果物
 ### Nuxt.js成果物
 ### React成果物
 ### Next.js成果物
 Next.js成果物はフォルダー名Next.jsに格納されています
-### 
+
